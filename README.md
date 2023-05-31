@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juno-chang
 - 👀 I’m interested in getting touch on the outer world.
-- 🌱 I’m currently learning flutter.
+- 🌱 I’m currently learning flutter, nest.js.
 - 💞️ I’m looking to collaborate on UX/UI.
 - 📫 How to reach me juno_proxima@hanmail.net
 
